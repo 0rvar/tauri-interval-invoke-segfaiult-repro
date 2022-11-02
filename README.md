@@ -1,6 +1,6 @@
 # Tauri segfault on mac..
 
-...when calling invoke in a timeout in a window that is closed
+...when calling invoke in a setInterval context in a window that is closed
 
 ## Steps to reproduce
 
